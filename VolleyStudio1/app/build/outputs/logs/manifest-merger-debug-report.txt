@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\896d454f9fa41113375be1d2d75d27e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\열\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\763e69ede23d7ba2205375bda9e728ab\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\945813801694966f585a0ef4bda5897b\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d3ad68bb1f0943befcf2ffae442bebdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c74cda93f10fe01f7036db48aaf9edee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\44bc39218de94d0da1d086379c2a5a1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\740e8550986f1b21c51d5afef06ba486\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\17575eb293134de0bf864bfc6fa5ab4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\4ac8b4a9de8522b10c14829acb5c8a61\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7b24a8ede8f408a972d3cffdef7984e0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b3f2c70855bbf72510a01fb52dacbb3c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\54d6f397c2caff334729699db0b49b12\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae2788c5140483ef493bbd3d36ca3caa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\03302e775b60eedd2c2b9f4574eb6a0e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\열\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\763e69ede23d7ba2205375bda9e728ab\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\열\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\763e69ede23d7ba2205375bda9e728ab\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\945813801694966f585a0ef4bda5897b\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\945813801694966f585a0ef4bda5897b\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\4ac8b4a9de8522b10c14829acb5c8a61\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\4ac8b4a9de8522b10c14829acb5c8a61\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:9:9-44
+activity#com.baway.volleystudio1.HomeActivity
+ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.baway.volleystudio1.MainActivity
+ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:23:9-25:20
+	android:name
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml:23:19-47
+uses-sdk
+INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\896d454f9fa41113375be1d2d75d27e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\896d454f9fa41113375be1d2d75d27e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\열\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\763e69ede23d7ba2205375bda9e728ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\열\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\763e69ede23d7ba2205375bda9e728ab\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\945813801694966f585a0ef4bda5897b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\945813801694966f585a0ef4bda5897b\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d3ad68bb1f0943befcf2ffae442bebdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d3ad68bb1f0943befcf2ffae442bebdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c74cda93f10fe01f7036db48aaf9edee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c74cda93f10fe01f7036db48aaf9edee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\44bc39218de94d0da1d086379c2a5a1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\44bc39218de94d0da1d086379c2a5a1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\740e8550986f1b21c51d5afef06ba486\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\740e8550986f1b21c51d5afef06ba486\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\17575eb293134de0bf864bfc6fa5ab4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\17575eb293134de0bf864bfc6fa5ab4b\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\4ac8b4a9de8522b10c14829acb5c8a61\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\4ac8b4a9de8522b10c14829acb5c8a61\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7b24a8ede8f408a972d3cffdef7984e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\열\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\7b24a8ede8f408a972d3cffdef7984e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b3f2c70855bbf72510a01fb52dacbb3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b3f2c70855bbf72510a01fb52dacbb3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\54d6f397c2caff334729699db0b49b12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\54d6f397c2caff334729699db0b49b12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae2788c5140483ef493bbd3d36ca3caa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ae2788c5140483ef493bbd3d36ca3caa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\03302e775b60eedd2c2b9f4574eb6a0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\열\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\03302e775b60eedd2c2b9f4574eb6a0e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android-studio_Code\Electricity\VolleyStudio1\app\src\main\AndroidManifest.xml
